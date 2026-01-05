@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindSprint - Modular Structure
 
 ## Project Overview
@@ -187,3 +188,6 @@ Modules communicate via:
 - Expand question banks
 - Advanced analytics dashboard
 - Parent notification system
+=======
+# game
+>>>>>>> c22270dfa90c0a8d19e682bc992d696533514e89
